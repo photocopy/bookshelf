@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hugorodas.com/post/running-for-life/</loc>
+    <lastmod>2017-06-18T12:52:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugorodas.com/post/good-to-great/</loc>
+    <lastmod>2017-06-18T12:52:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugorodas.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugorodas.com/post/</loc>
+    <lastmod>2017-06-18T12:52:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugorodas.com/</loc>
+    <lastmod>2017-06-18T12:52:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugorodas.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
